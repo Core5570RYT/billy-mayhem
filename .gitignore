@@ -1,0 +1,13 @@
+export/
+.vscode/
+art/backupcodeshit/
+todo.txt
+cdev-changelog.txt
+build.hxml
+vscode-project.hxml
+hxformat.json
+crash_handler/src
+CHANGELOG.md
+build-tools/
+source/game/system/util/
+FNF-CDEV-Engine-1.6.3.zip
